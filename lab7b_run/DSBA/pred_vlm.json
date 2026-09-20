@@ -1,0 +1,1975 @@
+{
+  "program": "วท.บ (วิทยาการข้อมูลและการวิเคราะห์เชิงธุรกิจ) สาขาวิชาวิทยาการข้อมูลและการวิเคราะห์เชิงธุรกิจ",
+  "plan": "คณะเทคโนโลยีสารสนเทศ สจล.",
+  "courses": [
+    {
+      "code": "06026200",
+      "name_th": "แคลคูลัส 1",
+      "name_en": "CALCULUS 1",
+      "credits": "3 (3-0-6)",
+      "year": 1,
+      "semester": 1,
+      "prerequisite": "ไม่มี",
+      "flexible_year_semester": null,
+      "note": "บังคับ",
+      "pages": [
+        23,
+        30,
+        314
+      ],
+      "source_page": 23
+    },
+    {
+      "code": "06026202",
+      "name_th": "พีชคณิตเชิงเส้น",
+      "name_en": "LINEAR ALGEBRA",
+      "credits": "3 (3-0-6)",
+      "year": 1,
+      "semester": 1,
+      "prerequisite": "ไม่มี",
+      "flexible_year_semester": null,
+      "note": "บังคับ",
+      "pages": [
+        23,
+        30
+      ],
+      "source_page": 23
+    },
+    {
+      "code": "06066101",
+      "name_th": "พื้นฐานทางธุรกิจสำหรับเทคโนโลยีสารสนเทศ",
+      "name_en": "BUSINESS FUNDAMENTALS FOR INFORMATION TECHNOLOGY",
+      "credits": "3 (3-0-6)",
+      "year": 1,
+      "semester": 1,
+      "prerequisite": "ไม่มี",
+      "flexible_year_semester": null,
+      "note": "บังคับ",
+      "pages": [
+        23,
+        30,
+        317
+      ],
+      "source_page": 23
+    },
+    {
+      "code": "06066303",
+      "name_th": "การแก้ปัญหาและการโปรแกรมคอมพิวเตอร์",
+      "name_en": "PROBLEM SOLVING AND COMPUTER PROGRAMMING",
+      "credits": "3 (2-2-5)",
+      "year": 1,
+      "semester": 1,
+      "prerequisite": "ไม่มี",
+      "flexible_year_semester": null,
+      "note": "บังคับ",
+      "pages": [
+        23,
+        30,
+        319
+      ],
+      "source_page": 23
+    },
+    {
+      "code": "90641001",
+      "name_th": "โรงเรียนสร้างเสน่ห์",
+      "name_en": "CHARM SCHOOL",
+      "credits": "2 (1-2-3)",
+      "year": 1,
+      "semester": 1,
+      "prerequisite": "ไม่มี",
+      "flexible_year_semester": null,
+      "note": "บังคับ",
+      "pages": [
+        23,
+        30
+      ],
+      "source_page": 23
+    },
+    {
+      "code": "90641003",
+      "name_th": "กีฬาและนันทนาการ",
+      "name_en": "SPORTS AND RECREATIONAL ACTIVITIES",
+      "credits": "1 (0-3-2)",
+      "year": 1,
+      "semester": 1,
+      "prerequisite": "ไม่มี",
+      "flexible_year_semester": null,
+      "note": "บังคับ",
+      "pages": [
+        23,
+        30
+      ],
+      "source_page": 23
+    },
+    {
+      "code": "90644007",
+      "name_th": "ภาษาอังกฤษพื้นฐาน 1",
+      "name_en": "FOUNDATION ENGLISH 1",
+      "credits": "3 (3-0-6)",
+      "year": 1,
+      "semester": 1,
+      "prerequisite": "ไม่มี",
+      "flexible_year_semester": null,
+      "note": "บังคับ",
+      "pages": [
+        23,
+        30
+      ],
+      "source_page": 23
+    },
+    {
+      "code": "06026201",
+      "name_th": "แคลคูลัส 2",
+      "name_en": "CALCULUS 2",
+      "credits": "3 (3-0-6)",
+      "year": 1,
+      "semester": 2,
+      "prerequisite": "ไม่มี",
+      "flexible_year_semester": null,
+      "note": null,
+      "pages": [
+        24,
+        31,
+        314
+      ],
+      "source_page": 24
+    },
+    {
+      "code": "06026203",
+      "name_th": "การโปรแกรมคอมพิวเตอร์",
+      "name_en": "COMPUTER PROGRAMMING",
+      "credits": "3 (2-2-5)",
+      "year": 1,
+      "semester": 2,
+      "prerequisite": "ไม่มี",
+      "flexible_year_semester": null,
+      "note": null,
+      "pages": [
+        24,
+        31
+      ],
+      "source_page": 24
+    },
+    {
+      "code": "06026205",
+      "name_th": "การตลาดเบื้องต้น",
+      "name_en": "INTRODUCTION TO MARKETING",
+      "credits": "3 (3-0-6)",
+      "year": 1,
+      "semester": 2,
+      "prerequisite": "ไม่มี",
+      "flexible_year_semester": null,
+      "note": null,
+      "pages": [
+        24,
+        31
+      ],
+      "source_page": 24
+    },
+    {
+      "code": "06066001",
+      "name_th": "ความน่าจะเป็นและสถิติ",
+      "name_en": "PROBABILITY AND STATISTICS",
+      "credits": "3 (3-0-6)",
+      "year": 1,
+      "semester": 2,
+      "prerequisite": "ไม่มี",
+      "flexible_year_semester": null,
+      "note": null,
+      "pages": [
+        24,
+        31
+      ],
+      "source_page": 24
+    },
+    {
+      "code": "90641002",
+      "name_th": "ความฉลาดทางดิจิทัล",
+      "name_en": "DIGITAL INTELLIGENCE QUOTIENT",
+      "credits": "3 (3-0-6)",
+      "year": 1,
+      "semester": 2,
+      "prerequisite": "ไม่มี",
+      "flexible_year_semester": null,
+      "note": null,
+      "pages": [
+        24,
+        31
+      ],
+      "source_page": 24
+    },
+    {
+      "code": "90642033",
+      "name_th": "กฎหมายสำหรับคนรุ่นใหม่",
+      "name_en": "LAW FOR NEW GENERATION",
+      "credits": "3 (3-0-6)",
+      "year": 1,
+      "semester": 2,
+      "prerequisite": "ไม่มี",
+      "flexible_year_semester": null,
+      "note": null,
+      "pages": [
+        24,
+        31
+      ],
+      "source_page": 24
+    },
+    {
+      "code": "90644008",
+      "name_th": "ภาษาอังกฤษพื้นฐาน 2",
+      "name_en": "FOUNDATION ENGLISH 2",
+      "credits": "3 (3-0-6)",
+      "year": 1,
+      "semester": 2,
+      "prerequisite": "ไม่มี",
+      "flexible_year_semester": null,
+      "note": null,
+      "pages": [
+        24,
+        31
+      ],
+      "source_page": 24
+    },
+    {
+      "code": "06026206",
+      "name_th": "การวิเคราะห์ข้อมูลและการโปรแกรม",
+      "name_en": "DATA ANALYTICS AND PROGRAMMING",
+      "credits": "3 (2-2-5)",
+      "year": 2,
+      "semester": 1,
+      "prerequisite": "ไม่มี",
+      "flexible_year_semester": "0",
+      "note": "ไม่มีข้อความเพิ่มเติม",
+      "pages": [
+        25,
+        32
+      ],
+      "source_page": 25
+    },
+    {
+      "code": "06066000",
+      "name_th": "คณิตศาสตร์ไม่ต่อเนื่อง",
+      "name_en": "DISCRETE MATHEMATICS",
+      "credits": "3 (3-0-6)",
+      "year": 2,
+      "semester": 1,
+      "prerequisite": "ไม่มี",
+      "flexible_year_semester": "0",
+      "note": "ไม่มีข้อความเพิ่มเติม",
+      "pages": [
+        25,
+        32
+      ],
+      "source_page": 25
+    },
+    {
+      "code": "06066300",
+      "name_th": "แนวคิดระบบฐานข้อมูล",
+      "name_en": "DATABASE SYSTEM CONCEPTS",
+      "credits": "3 (2-2-5)",
+      "year": 2,
+      "semester": 1,
+      "prerequisite": "ไม่มี",
+      "flexible_year_semester": "0",
+      "note": "ไม่มีข้อความเพิ่มเติม",
+      "pages": [
+        25,
+        32
+      ],
+      "source_page": 25
+    },
+    {
+      "code": "06066302",
+      "name_th": "การเขียนโปรแกรมเว็บพื้นฐาน",
+      "name_en": "FUNDAMENTAL WEB PROGRAMMING",
+      "credits": "3 (2-2-5)",
+      "year": 2,
+      "semester": 1,
+      "prerequisite": "ไม่มี",
+      "flexible_year_semester": "0",
+      "note": "ไม่มีข้อความเพิ่มเติม",
+      "pages": [
+        25,
+        32
+      ],
+      "source_page": 25
+    },
+    {
+      "code": "06066304",
+      "name_th": "การวิเคราะห์และออกแบบระบบสารสนเทศ",
+      "name_en": "INFORMATION SYSTEM ANALYSIS AND DESIGN",
+      "credits": "3 (3-0-6)",
+      "year": 2,
+      "semester": 1,
+      "prerequisite": "ไม่มี",
+      "flexible_year_semester": "0",
+      "note": "ไม่มีข้อความเพิ่มเติม",
+      "pages": [
+        25,
+        32
+      ],
+      "source_page": 25
+    },
+    {
+      "code": "90644xxx",
+      "name_th": "วิชาเลือกด้านภาษาและการสื่อสาร",
+      "name_en": "ELECTIVE IN LANGUAGE AND COMMUNICATION",
+      "credits": "3 (3-0-6) หรือ 3 (2-2-5)",
+      "year": 0,
+      "semester": 0,
+      "prerequisite": "ไม่มี",
+      "flexible_year_semester": "2/1, 2/2, 3/1",
+      "note": "วิชาเลือกเสรี",
+      "pages": [
+        25,
+        32
+      ],
+      "source_page": 25
+    },
+    {
+      "code": "06026204",
+      "name_th": "เครือข่ายและความมั่นคงทางไซเบอร์เบื้องต้น",
+      "name_en": "INTRODUCTION TO NETWORKS AND CYBERSECURITY",
+      "credits": "3 (3-0-6)",
+      "year": 2,
+      "semester": 2,
+      "prerequisite": "ไม่มี",
+      "flexible_year_semester": null,
+      "note": "ปีที่ 2 ภาคการศึกษาที่ 2",
+      "pages": [
+        26,
+        33
+      ],
+      "source_page": 26
+    },
+    {
+      "code": "06026207",
+      "name_th": "ระบบฐานข้อมูลแบบโนเอสดิวแอล",
+      "name_en": "NOSQL DATABASE SYSTEMS",
+      "credits": "3 (2-2-5)",
+      "year": 2,
+      "semester": 2,
+      "prerequisite": "ไม่มี",
+      "flexible_year_semester": null,
+      "note": "ปีที่ 2 ภาคการศึกษาที่ 2",
+      "pages": [
+        26
+      ],
+      "source_page": 26
+    },
+    {
+      "code": "06026208",
+      "name_th": "พื้นฐานวิทยาการข้อมูล",
+      "name_en": "FUNDAMENTALS OF DATA SCIENCE",
+      "credits": "3 (3-0-6)",
+      "year": 2,
+      "semester": 2,
+      "prerequisite": "ไม่มี",
+      "flexible_year_semester": null,
+      "note": "ปีที่ 2 ภาคการศึกษาที่ 2",
+      "pages": [
+        26,
+        33
+      ],
+      "source_page": 26
+    },
+    {
+      "code": "06026209",
+      "name_th": "การแสดงข้อมูลด้วยแผนภาพ",
+      "name_en": "DATA VISUALIZATION",
+      "credits": "3 (2-2-5)",
+      "year": 2,
+      "semester": 2,
+      "prerequisite": "ไม่มี",
+      "flexible_year_semester": null,
+      "note": "ปีที่ 2 ภาคการศึกษาที่ 2",
+      "pages": [
+        26,
+        33
+      ],
+      "source_page": 26
+    },
+    {
+      "code": "06026210",
+      "name_th": "การหาค่าที่เหมาะที่สุด",
+      "name_en": "OPTIMIZATION",
+      "credits": "3 (3-0-6)",
+      "year": 2,
+      "semester": 2,
+      "prerequisite": "ไม่มี",
+      "flexible_year_semester": null,
+      "note": "ปีที่ 2 ภาคการศึกษาที่ 2",
+      "pages": [
+        26,
+        33
+      ],
+      "source_page": 26
+    },
+    {
+      "code": "06066102",
+      "name_th": "ระบบสารสนเทศเพื่อการจัดการ",
+      "name_en": "MANAGEMENT INFORMATION SYSTEMS",
+      "credits": "3 (3-0-6)",
+      "year": 2,
+      "semester": 2,
+      "prerequisite": "ไม่มี",
+      "flexible_year_semester": null,
+      "note": "ปีที่ 2 ภาคการศึกษาที่ 2",
+      "pages": [
+        26,
+        33
+      ],
+      "source_page": 26
+    },
+    {
+      "code": "06066301",
+      "name_th": "โครงสร้างข้อมูลและอัลกอริทึม",
+      "name_en": "DATA STRUCTURES AND ALGORITHMS",
+      "credits": "3 (2-2-5)",
+      "year": 2,
+      "semester": 2,
+      "prerequisite": "ไม่มี",
+      "flexible_year_semester": null,
+      "note": "ปีที่ 2 ภาคการศึกษาที่ 2",
+      "pages": [
+        26,
+        33
+      ],
+      "source_page": 26
+    },
+    {
+      "code": "06026211",
+      "name_th": "การเรียนรู้ของเครื่องเชิงประยุกต์",
+      "name_en": "APPLIED MACHINE LEARNING",
+      "credits": "3 (2-2-5)",
+      "year": 3,
+      "semester": 1,
+      "prerequisite": "ไม่มี",
+      "flexible_year_semester": null,
+      "note": "วิชาบังคับในปีที่ 3 ภาคการศึกษาที่ 1",
+      "pages": [
+        27,
+        34
+      ],
+      "source_page": 27
+    },
+    {
+      "code": "06026212",
+      "name_th": "การสร้างคลังข้อมูล",
+      "name_en": "DATA WAREHOUSING",
+      "credits": "3 (2-2-5)",
+      "year": 3,
+      "semester": 1,
+      "prerequisite": "ไม่มี",
+      "flexible_year_semester": null,
+      "note": "วิชาบังคับในปีที่ 3 ภาคการศึกษาที่ 1",
+      "pages": [
+        27,
+        34
+      ],
+      "source_page": 27
+    },
+    {
+      "code": "06026xxx",
+      "name_th": "วิชาเลือกกลุ่มวิทยาการข้อมูล 1",
+      "name_en": "ELECTIVE IN DATA SCIENCE",
+      "credits": "3 (3-0-6) หรือ",
+      "year": 0,
+      "semester": 0,
+      "prerequisite": "ไม่มี",
+      "flexible_year_semester": "3/1, 3/2, 4/1",
+      "note": "วิชาเลือกกลุ่มวิทยาการข้อมูล 1",
+      "pages": [
+        27,
+        34
+      ],
+      "source_page": 27
+    },
+    {
+      "code": "06026xxx",
+      "name_th": "วิชาเลือกกลุ่มการวิเคราะห์เชิงสถิติ 1",
+      "name_en": "ELECTIVE IN STATISTICAL ANALYSIS 1",
+      "credits": "3 (2-2-5)",
+      "year": 0,
+      "semester": 0,
+      "prerequisite": "ไม่มี",
+      "flexible_year_semester": "3/1, 3/2, 4/1",
+      "note": "วิชาเลือกกลุ่มการวิเคราะห์เชิงสถิติ 1",
+      "pages": [
+        27,
+        34
+      ],
+      "source_page": 27
+    },
+    {
+      "code": "06026xxx",
+      "name_th": "วิชาเลือกกลุ่มวิศวกรรมข้อมูล 1",
+      "name_en": "ELECTIVE IN DATA ENGINEERING 1",
+      "credits": "3 (3-0-6) หรือ",
+      "year": 0,
+      "semester": 0,
+      "prerequisite": "ไม่มี",
+      "flexible_year_semester": "3/1, 3/2, 4/1",
+      "note": "วิชาเลือกกลุ่มวิศวกรรมข้อมูล 1",
+      "pages": [
+        27,
+        34
+      ],
+      "source_page": 27
+    },
+    {
+      "code": "06026xxx",
+      "name_th": "วิชาเลือกกลุ่มวิทยาการข้อมูล 2",
+      "name_en": "ELECTIVE IN DATA SCIENCE 2",
+      "credits": "3 (3-0-6) หรือ",
+      "year": 0,
+      "semester": 0,
+      "prerequisite": "ไม่มี",
+      "flexible_year_semester": "3/1, 3/2, 4/1",
+      "note": "วิชาเลือกกลุ่มวิทยาการข้อมูล 2",
+      "pages": [
+        27,
+        34
+      ],
+      "source_page": 27
+    },
+    {
+      "code": "06026xxx",
+      "name_th": "วิชาเลือกกลุ่มการวิเคราะห์เชิงสถิติ 2",
+      "name_en": "ELECTIVE IN STATISTICAL ANALYTICS 2",
+      "credits": "3 (2-2-5)",
+      "year": 0,
+      "semester": 0,
+      "prerequisite": "ไม่มี",
+      "flexible_year_semester": "3/1, 3/2, 4/1",
+      "note": "วิชาเลือกกลุ่มการวิเคราะห์เชิงสถิติ 2",
+      "pages": [
+        27,
+        34
+      ],
+      "source_page": 27
+    },
+    {
+      "code": "06026xxx",
+      "name_th": "วิชาเลือกกลุ่มวิศวกรรมข้อมูล 2",
+      "name_en": "ELECTIVE IN DATA ENGINEERING 2",
+      "credits": "3 (3-0-6) หรือ",
+      "year": 0,
+      "semester": 0,
+      "prerequisite": "ไม่มี",
+      "flexible_year_semester": "3/1, 3/2, 4/1",
+      "note": "วิชาเลือกกลุ่มวิศวกรรมข้อมูล 2",
+      "pages": [
+        27,
+        34
+      ],
+      "source_page": 27
+    },
+    {
+      "code": "9064xxxxx",
+      "name_th": "วิชาเลือกหมวดวิชาศึกษาทั่วไป",
+      "name_en": "ELECTIVE IN GENERAL EDUCATION",
+      "credits": "3 (3-0-6) หรือ",
+      "year": 0,
+      "semester": 0,
+      "prerequisite": "ไม่มี",
+      "flexible_year_semester": "3/1, 3/2, 4/1",
+      "note": "วิชาเลือกหมวดวิชาศึกษาทั่วไป",
+      "pages": [
+        27,
+        29,
+        34
+      ],
+      "source_page": 27
+    },
+    {
+      "code": "90644042",
+      "name_th": "กลุ่มวิชาที่กำหนดโดยคณะ* การสื่อสารและการนำเสนอออย่างมืออาชีพ",
+      "name_en": "PROFESSIONAL COMMUNICATION AND PRESENTATION",
+      "credits": "3 (3-0-6)",
+      "year": 0,
+      "semester": 0,
+      "prerequisite": "ไม่มี",
+      "flexible_year_semester": "3/1, 3/2, 4/1",
+      "note": "กลุ่มวิชาที่กำหนดโดยคณะ* การสื่อสารและการนำเสนอออย่างมืออาชีพ",
+      "pages": [
+        27
+      ],
+      "source_page": 27
+    },
+    {
+      "code": "06026213",
+      "name_th": "ระบบข้อมูลมหัต BIG DATA SYSTEMS",
+      "name_en": "BIG DATA SYSTEMS",
+      "credits": "3 (2-2-5)",
+      "year": 3,
+      "semester": 2,
+      "prerequisite": "ไม่มี",
+      "flexible_year_semester": "3/1, 3/2, 4/1",
+      "note": "วิชาบังคับ",
+      "pages": [
+        28,
+        35
+      ],
+      "source_page": 28
+    },
+    {
+      "code": "06026214",
+      "name_th": "โครงงานวิทยาการข้อมูลและการวิเคราะห์เชิงธุรกิจ 1",
+      "name_en": "PROJECT IN DATA SCIENCE AND BUSINESS ANALYTICS 1",
+      "credits": "3 (0-9-0)",
+      "year": 3,
+      "semester": 2,
+      "prerequisite": "ไม่มี",
+      "flexible_year_semester": "3/1, 3/2, 4/1",
+      "note": "วิชาบังคับ",
+      "pages": [
+        28,
+        35
+      ],
+      "source_page": 28
+    },
+    {
+      "code": "06026xxx",
+      "name_th": "วิชาเลือกกลุ่มวิทยาการข้อมูล 3",
+      "name_en": "ELECTIVE IN DATA SCIENCE 3",
+      "credits": "3 (3-0-6)",
+      "year": 0,
+      "semester": 0,
+      "prerequisite": "ไม่มี",
+      "flexible_year_semester": "3/1, 3/2, 4/1",
+      "note": "วิชาเลือก",
+      "pages": [
+        28,
+        35
+      ],
+      "source_page": 28
+    },
+    {
+      "code": "06026xxx",
+      "name_th": "วิชาเลือกกลุ่มการวิเคราะห์เชิงสถิติ 3",
+      "name_en": "ELECTIVE IN STATISTICAL ANALYTICS 3",
+      "credits": "3 (2-2-5)",
+      "year": 0,
+      "semester": 0,
+      "prerequisite": "ไม่มี",
+      "flexible_year_semester": "3/1, 3/2, 4/1",
+      "note": "วิชาเลือก",
+      "pages": [
+        28,
+        35
+      ],
+      "source_page": 28
+    },
+    {
+      "code": "06026xxx",
+      "name_th": "วิชาเลือกกลุ่มวิศวกรรมข้อมูล 3",
+      "name_en": "ELECTIVE IN DATA ENGINEERING 3",
+      "credits": "3 (2-2-5)",
+      "year": 0,
+      "semester": 0,
+      "prerequisite": "ไม่มี",
+      "flexible_year_semester": "3/1, 3/2, 4/1",
+      "note": "วิชาเลือก",
+      "pages": [
+        28,
+        35
+      ],
+      "source_page": 28
+    },
+    {
+      "code": "06026xxx",
+      "name_th": "วิชาเลือกกลุ่มวิทยาการข้อมูล 4",
+      "name_en": "ELECTIVE IN DATA SCIENCE 4",
+      "credits": "3 (3-0-6)",
+      "year": 0,
+      "semester": 0,
+      "prerequisite": "ไม่มี",
+      "flexible_year_semester": "3/1, 3/2, 4/1",
+      "note": "วิชาเลือก",
+      "pages": [
+        28,
+        35
+      ],
+      "source_page": 28
+    },
+    {
+      "code": "06026xxx",
+      "name_th": "วิชาเลือกกลุ่มการวิเคราะห์เชิงสถิติ 4",
+      "name_en": "ELECTIVE IN STATISTICAL ANALYTICS 4",
+      "credits": "3 (2-2-5)",
+      "year": 0,
+      "semester": 0,
+      "prerequisite": "ไม่มี",
+      "flexible_year_semester": "3/1, 3/2, 4/1",
+      "note": "วิชาเลือก",
+      "pages": [
+        28,
+        35
+      ],
+      "source_page": 28
+    },
+    {
+      "code": "06026xxx",
+      "name_th": "วิชาเลือกกลุ่มวิศวกรรมข้อมูล 4",
+      "name_en": "ELECTIVE IN DATA ENGINEERING 4",
+      "credits": "3 (2-2-5)",
+      "year": 0,
+      "semester": 0,
+      "prerequisite": "ไม่มี",
+      "flexible_year_semester": "3/1, 3/2, 4/1",
+      "note": "วิชาเลือก",
+      "pages": [
+        28,
+        35
+      ],
+      "source_page": 28
+    },
+    {
+      "code": "06066100",
+      "name_th": "การบริหารโครงการเทคโนโลยีสารสนเทศ",
+      "name_en": "INFORMATION TECHNOLOGY PROJECT MANAGEMENT",
+      "credits": "3 (3-0-6)",
+      "year": 3,
+      "semester": 2,
+      "prerequisite": "ไม่มี",
+      "flexible_year_semester": "3/1, 3/2, 4/1",
+      "note": "วิชาบังคับ",
+      "pages": [
+        28,
+        35
+      ],
+      "source_page": 28
+    },
+    {
+      "code": "90643021",
+      "name_th": "กลุ่มวิชาที่กำหนดโดยคณะ* ผู้ประกอบการสมัยใหม่",
+      "name_en": "MODERN ENTREPRENEURS",
+      "credits": "3 (3-0-6)",
+      "year": 3,
+      "semester": 2,
+      "prerequisite": "ไม่มี",
+      "flexible_year_semester": "3/1, 3/2, 4/1",
+      "note": "วิชาบังคับ",
+      "pages": [
+        28,
+        35
+      ],
+      "source_page": 28
+    },
+    {
+      "code": "06026215",
+      "name_th": "โครงงานวิทยาการข้อมูลและการวิเคราะห์เชิงธุรกิจ 2",
+      "name_en": "PROJECT IN DATA SCIENCE AND BUSINESS ANALYTICS 2",
+      "credits": "3 (0-9-0)",
+      "year": 4,
+      "semester": 1,
+      "prerequisite": "ไม่มี",
+      "flexible_year_semester": null,
+      "note": null,
+      "pages": [
+        29,
+        36
+      ],
+      "source_page": 29
+    },
+    {
+      "code": "06026xxx",
+      "name_th": "วิชาเลือกในกลุ่มวิชาเลือกหรือกลุ่มวิชาชีพเฉพาะด้าน 1",
+      "name_en": "ELECTIVE IN ELECTIVE OR SPECIFIC PROFESSIONAL COURSES 1",
+      "credits": "3 (3-0-6) หรือ 3 (2-2-5)",
+      "year": 0,
+      "semester": 0,
+      "prerequisite": "ไม่มี",
+      "flexible_year_semester": "3/1, 3/2, 4/1",
+      "note": null,
+      "pages": [
+        29
+      ],
+      "source_page": 29
+    },
+    {
+      "code": "06026xxx",
+      "name_th": "วิชาเลือกในกลุ่มวิชาเลือกหรือกลุ่มวิชาชีพเฉพาะด้าน 2",
+      "name_en": "ELECTIVE IN ELECTIVE OR SPECIFIC PROFESSIONAL COURSES 2",
+      "credits": "3 (3-0-6) หรือ 3 (2-2-5)",
+      "year": 0,
+      "semester": 0,
+      "prerequisite": "ไม่มี",
+      "flexible_year_semester": "3/1, 3/2, 4/1",
+      "note": null,
+      "pages": [
+        29
+      ],
+      "source_page": 29
+    },
+    {
+      "code": "XXXXXXX",
+      "name_th": "วิชาเลือกหมวดวิชาศึกษาทั่วไป",
+      "name_en": "ELECTIVE IN GENERAL EDUCATION",
+      "credits": "3 (3-0-6) หรือ 3 (2-2-5)",
+      "year": 0,
+      "semester": 0,
+      "prerequisite": "ไม่มี",
+      "flexible_year_semester": "4/1",
+      "note": null,
+      "pages": [
+        29
+      ],
+      "source_page": 29
+    },
+    {
+      "code": "วิชาเลือกเสรี 1",
+      "name_th": "วิชาเลือกเสรี 1",
+      "name_en": "FREE ELECTIVE COURSE 1",
+      "credits": "3 (3-0-6) หรือ 3 (2-2-5)",
+      "year": 0,
+      "semester": 0,
+      "prerequisite": "ไม่มี",
+      "flexible_year_semester": "4/1",
+      "note": null,
+      "pages": [
+        29,
+        36
+      ],
+      "source_page": 29
+    },
+    {
+      "code": "วิชาเลือกเสรี 2",
+      "name_th": "วิชาเลือกเสรี 2",
+      "name_en": "FREE ELECTIVE COURSE 2",
+      "credits": "3 (3-0-6) หรือ 3 (2-2-5)",
+      "year": 0,
+      "semester": 0,
+      "prerequisite": "ไม่มี",
+      "flexible_year_semester": "4/1",
+      "note": null,
+      "pages": [
+        29
+      ],
+      "source_page": 29
+    },
+    {
+      "code": "06026207",
+      "name_th": "ระบบฐานข้อมูลแบบโนเอสคิวแอล",
+      "name_en": "NOSQL DATABASE SYSTEMS",
+      "credits": "3 (2-2-5)",
+      "year": 2,
+      "semester": 2,
+      "prerequisite": "ไม่มี",
+      "flexible_year_semester": null,
+      "note": "ปีที่ 2 ภาคการศึกษาที่ 2",
+      "pages": [
+        33
+      ],
+      "source_page": 33
+    },
+    {
+      "code": "90644042",
+      "name_th": "กลุ่มวิชาที่กำหนดโดยคณะ* การสื่อสารและการนำเสนอออย่างมืออาชีพ",
+      "name_en": "PROFESSIONAL COMMUNICATION AND PRESENTATION",
+      "credits": "3 (3-0-6)",
+      "year": 3,
+      "semester": 1,
+      "prerequisite": "ไม่มี",
+      "flexible_year_semester": null,
+      "note": "กลุ่มวิชาที่กำหนดโดยคณะ* การสื่อสารและการนำเสนอออย่างมืออาชีพ",
+      "pages": [
+        34
+      ],
+      "source_page": 34
+    },
+    {
+      "code": "9064xxxx",
+      "name_th": "วิชาเลือกหมวดวิชาศึกษาทั่วไป",
+      "name_en": "ELECTIVE IN GENERAL EDUCATION",
+      "credits": "3 (3-0-6) หรือ 3 (2-2-5)",
+      "year": 0,
+      "semester": 0,
+      "prerequisite": "ไม่มี",
+      "flexible_year_semester": "3/1, 3/2, 4/1",
+      "note": "วิชาเลือกหมวดวิชาศึกษาทั่วไป",
+      "pages": [
+        36
+      ],
+      "source_page": 36
+    },
+    {
+      "code": "3 (2-2-5)",
+      "name_th": "3 (2-2-5)",
+      "name_en": "3 (2-2-5)",
+      "credits": "3 (2-2-5)",
+      "year": 0,
+      "semester": 0,
+      "prerequisite": "ไม่มี",
+      "flexible_year_semester": "3/1, 3/2, 4/1",
+      "note": "วิชาเลือกเสรี 1",
+      "pages": [
+        36
+      ],
+      "source_page": 36
+    },
+    {
+      "code": "xxxxxxx",
+      "name_th": "วิชาเลือกเสรี 2",
+      "name_en": "FREE ELECTIVE COURSE 2",
+      "credits": "3 (3-0-6) หรือ 3 (2-2-5))",
+      "year": 0,
+      "semester": 0,
+      "prerequisite": "ไม่มี",
+      "flexible_year_semester": "3/1, 3/2, 4/1",
+      "note": "วิชาเลือกเสรี 2",
+      "pages": [
+        36
+      ],
+      "source_page": 36
+    },
+    {
+      "code": "06026259 หรือ 06026260",
+      "name_th": "สหกิจศึกษาทางวิทยาการข้อมูลและการวิเคราะห์เชิงธุรกิจ",
+      "name_en": "COOPERATIVE EDUCATION IN DATA SCIENCE AND BUSINESS ANALYTICS",
+      "credits": "6 (0-35-0)",
+      "year": 4,
+      "semester": 2,
+      "prerequisite": "ไม่มี",
+      "flexible_year_semester": null,
+      "note": "สหกิจศึกษาทางวิทยาการข้อมูลและการวิเคราะห์เชิงธุรกิจ",
+      "pages": [
+        36
+      ],
+      "source_page": 36
+    },
+    {
+      "code": "06026260",
+      "name_th": "สหกิจศึกษาต่างประเทศทางวิทยาการข้อมูลและการวิเคราะห์เชิงธุรกิจ",
+      "name_en": "OVERSEA COOPERERATIVE EDUCATION IN DATA SCIENCE AND BUSINESS ANALYTICS",
+      "credits": "6 (0-35-0)",
+      "year": 4,
+      "semester": 2,
+      "prerequisite": "ไม่มี",
+      "flexible_year_semester": null,
+      "note": "สหกิจศึกษาต่างประเทศทางวิทยาการข้อมูลและการวิเคราะห์เชิงธุรกิจ",
+      "pages": [
+        36
+      ],
+      "source_page": 36
+    },
+    {
+      "code": "06026202",
+      "name_th": "พืชคณิตเชิงเส้น",
+      "name_en": "LINEAR ALGEBRA",
+      "credits": "3(3-0-6)",
+      "year": 1,
+      "semester": 1,
+      "prerequisite": "ไม่มี",
+      "flexible_year_semester": null,
+      "note": "วิชาบังคับก่อน : ไม่มี\nPREREQUISITE : None",
+      "pages": [
+        315
+      ],
+      "source_page": 315
+    },
+    {
+      "code": "06066000",
+      "name_th": "คณิตศาสตร์ไม่ต่อเนื่อง",
+      "name_en": "DISCRETE MATHEMATICS",
+      "credits": "3(3-0-6)",
+      "year": 1,
+      "semester": 1,
+      "prerequisite": "ไม่มี",
+      "flexible_year_semester": null,
+      "note": "วิชาบังคับก่อน : ไม่มี\nPREREQUISITE : None",
+      "pages": [
+        315
+      ],
+      "source_page": 315
+    },
+    {
+      "code": "06066001",
+      "name_th": "ความน่าจะเป็นและสถิติ",
+      "name_en": "PROBABILITY AND STATISTICS",
+      "credits": "3(3-0-6)",
+      "year": 1,
+      "semester": 1,
+      "prerequisite": "ไม่มี",
+      "flexible_year_semester": null,
+      "note": "วิชาบังคับก่อน : ไม่มี\nPREREQUISITE : None",
+      "pages": [
+        315
+      ],
+      "source_page": 315
+    },
+    {
+      "code": "06026203",
+      "name_th": "การโปรแกรมคอมพิวเตอร์",
+      "name_en": "COMPUTER PROGRAMMING",
+      "credits": "3(2-2-5)",
+      "year": 1,
+      "semester": 1,
+      "prerequisite": "ไม่มี",
+      "flexible_year_semester": null,
+      "note": "กลุ่มวิชาแกน - กลุ่มพื้นฐานเทคโนโลยีสารสนเทศ",
+      "pages": [
+        316
+      ],
+      "source_page": 316
+    },
+    {
+      "code": "06026204",
+      "name_th": "เครือข่ายและความมั่นคงทางไซเบอร์เบื้องต้น",
+      "name_en": "INTRODUCTION TO NETWORKS AND CYBERSECURITY",
+      "credits": "3(3-0-6)",
+      "year": 1,
+      "semester": 1,
+      "prerequisite": "ไม่มี",
+      "flexible_year_semester": null,
+      "note": "กลุ่มวิชาแกน - กลุ่มพื้นฐานเทคโนโลยีสารสนเทศ",
+      "pages": [
+        316
+      ],
+      "source_page": 316
+    },
+    {
+      "code": "6066100",
+      "name_th": "การบริหารโครงการเทคโนโลยีสารสนเทศ",
+      "name_en": "INFORMATION TECHNOLOGY PROJECT MANAGEMENT",
+      "credits": "3(3-0-6)",
+      "year": 1,
+      "semester": 1,
+      "prerequisite": "ไม่มี",
+      "flexible_year_semester": null,
+      "note": "วิชาบังคับก่อน : ไม่มี\nPREREQUISITE : None\nธรรมชาติและวงจรชีวิตของโครงการ การศึกษาความเป็นไปได้ของโครงการ เทคนิคการเลือกโครงการ องค์ความรู้สำหรับการบริหารโครงการ กลุ่มกระบวนการบริหารโครงการ การจัดการขอบเขตของโครงการ การจัดการตารางเวลา การจัดการค่าใช้จ่ายโครงการ การจัดการคุณภาพ การจัดทีมงานและทรัพยากร การจัดการงานสื่อสาร การจัดการความเสี่ยง การควบคุมโครงการ และประเมินผลโครงการ\nNature and life cycle of information technology (IT) projects, project feasibility, project selection techniques, project management body of knowledge, PM process groups, project scope management, project cost, project scheduling, quality management, team and resources management, communication management, risk management, project controlling, project evaluation.",
+      "pages": [
+        317
+      ],
+      "source_page": 317
+    },
+    {
+      "code": "06066102",
+      "name_th": "ระบบสารสนเทศเพื่อการจัดการ",
+      "name_en": "MANAGEMENT INFORMATION SYSTEMS",
+      "credits": "3(3-0-6)",
+      "year": 1,
+      "semester": 1,
+      "prerequisite": "06066101 พื้นฐานทางธุรกิจสำหรับเทคโนโลยีสารสนเทศ",
+      "flexible_year_semester": null,
+      "note": "วิชาบังคับก่อน : 06066101 พื้นฐานทางธุรกิจสำหรับเทคโนโลยีสารสนเทศ\nPREREQUISITE : 06066101 BUSINESS FUNDAMENTALS FOR INFORMATION TECHNOLOGY",
+      "pages": [
+        318
+      ],
+      "source_page": 318
+    },
+    {
+      "code": "06066300",
+      "name_th": "แนวคิดระบบฐานข้อมูล",
+      "name_en": "DATABASE SYSTEM CONCEPTS",
+      "credits": "3(2-2-5)",
+      "year": 1,
+      "semester": 1,
+      "prerequisite": "ไม่มี",
+      "flexible_year_semester": null,
+      "note": "วิชาบังคับก่อน : ไม่มี\nPREREQUISITE : None",
+      "pages": [
+        318
+      ],
+      "source_page": 318
+    },
+    {
+      "code": "06066301",
+      "name_th": "โครงสร้างข้อมูลและอัลกอริทึม",
+      "name_en": "DATA STRUCTURES AND ALGORITHMS",
+      "credits": "3(2-2-5)",
+      "year": 1,
+      "semester": 1,
+      "prerequisite": "ไม่มี",
+      "flexible_year_semester": null,
+      "note": "วิชาบังคับก่อน : ไม่มี\nPREREQUISITE : None\n\nชนิดของข้อมูล โครงสร้างข้อมูลและชนิดข้อมูลแบบนามธรรม โครงสร้างข้อมูลพื้นฐาน เช่น ลิสท์ สแต็ก และคิว โครงสร้างข้อมูลแบบพลวัต คำศัพท์เฉพาะเกี่ยวกับทรี ไบนารีทรี ใบนำรีเสิร์ชทรี เอวีแอลทรี กราฟ การวิเคราะห์โปรแกรมเชิงเวลาและพื้นที่ อัลกอริทึมการเรียงลำดับและการค้นหาข้อมูล อัลกอริทึมแบบละโมบ อัลกอริทึมแบบแบ่งเพื่อเอาชนะ อัลกอริทึมเกี่ยวกับกราฟ และการเขียนโปรแกรมพลวัต\n\nData types, data structures and abstract data types, basic data structures e.g. list, stack, and queue, dynamic data structures, terminology of trees, binary trees, binary search trees, AVL trees, graph, time and space analysis of programs, sorting and searching algorithms, greedy algorithm, divide and conquer algorithm, graph algorithms, and dynamic programming.",
+      "pages": [
+        319
+      ],
+      "source_page": 319
+    },
+    {
+      "code": "06066302",
+      "name_th": "การเขียนโปรแกรมเว็บพื้นฐาน",
+      "name_en": "FUNDAMENTAL WEB PROGRAMMING",
+      "credits": "3(2-2-5)",
+      "year": 1,
+      "semester": 1,
+      "prerequisite": "ไม่มี",
+      "flexible_year_semester": null,
+      "note": "วิชาบังคับก่อน : ไม่มี\nPREREQUISITE : None\n\nแนวคิดพื้นฐานและหลักการทำงานของระบบเว็บ เครื่องมือสำหรับการออกแบบ และพัฒนาเว็บ การเขียนโปรแกรมเว็บฝั่งไคลแอนท์ HTML CSS JavaScript กระบวนการออกแบบส่วนต่อประสานกับผู้ใช้ การจัดการกับ Events การจัดการโครงสร้างเอกสารและ DOM การเขียนโปรแกรมเว็บฝั่งเซิร์ฟเวอร์ PHP การจัดการและการใช้งานฐานข้อมูล การใช้งานเฟรมเวิร์ค\n\nConcepts of Web system and Web development, Web development and design tools, Client-side scripting: HTML, CSS, JavaScript, User Interface Design process, Event driven programming, Web document structure and site management, Understanding the document object model, Server-side scripting, PHP programming, Introduction to database management in web development, Implementing web development frameworks.",
+      "pages": [
+        319
+      ],
+      "source_page": 319
+    },
+    {
+      "code": "06066304",
+      "name_th": "การวิเคราะห์และออกแบบระบบสารสนเทศ",
+      "name_en": "Problem solving strategies and concepts, algorithmic thinking, flowchart, concepts and introduction to computer programming.",
+      "credits": "3(3-0-6)",
+      "year": 1,
+      "semester": 1,
+      "prerequisite": "ไม่มี",
+      "flexible_year_semester": null,
+      "note": "วิชาบังคับในกลุ่มวิชาแกน - กลุ่มพื้นฐานวิชาชีพ 33 หน่วยกิต",
+      "pages": [
+        320
+      ],
+      "source_page": 320
+    },
+    {
+      "code": "06026205",
+      "name_th": "การตลาดเบื้องต้น",
+      "name_en": "A study of consumer behaviors, the definition of specific strategy in segmentation, target group and positioning, product implementation pricing product distribution and promotion regarding social responsibility, digital marketing concepts and strategies, marketing through digital media.",
+      "credits": "3(3-0-6)",
+      "year": 1,
+      "semester": 1,
+      "prerequisite": "ไม่มี",
+      "flexible_year_semester": null,
+      "note": "วิชาบังคับในกลุ่มวิชาแกน - กลุ่มพื้นฐานวิชาชีพ 33 หน่วยกิต",
+      "pages": [
+        320
+      ],
+      "source_page": 320
+    },
+    {
+      "code": "06026206",
+      "name_th": "การวิเคราะห์ข้อมูลและการโปรแกรม",
+      "name_en": "DATA ANALYTICS AND PROGRAMMING",
+      "credits": "3(2-2-5)",
+      "year": 1,
+      "semester": 1,
+      "prerequisite": "ไม่มี",
+      "flexible_year_semester": null,
+      "note": "วิชาบังคับก่อน : ไม่มี\nPREREQUISITE : None\nในภาคทฤษฎี แนะนำการวิเคราะห์ข้อมูลเชิงธุรกิจและการตัดสินใจ สถิติเชิงพรรณนาการวิเคราะห์ความแปรปรวนหลายตัวแปร การวิเคราะห์ความถดถอยเชิงเส้นอย่างง่าย การวิเคราะห์ความถดถอยเชิงซ้อน การวิเคราะห์จำแนกกลุ่ม(Discriminant Analysis) การวิเคราะห์ความแปรปรวนทางสถิติ เช่น ภาษาอาร์ ประเภทข้อมูล ข้อมูลตัวแปรเดี่ยว ข้อมูลตัวแปรคู่ ข้อมูลหลายตัวแปร สถิติเชิงพรรณา ตัวแปรอาร์เรย์ เมตริกซ์ ข้อมูลรายการและเฟรมข้อมูล โครงสร้างการควบคุม การวนลูป การพล็อตกราฟและกราฟฟิค การจัดการข้อมูล การสร้างฟังก์ชัน และแพคเกจ รวมทั้งการใช้โปรแกรมสำเร็จรูปทางสถิติในการวิเคราะห์ข้อมูล\nIntroduction to business data analytics and decision making, descriptive statistics, multivariate analysis of variance, simple regression analysis, multiple regression analysis, discriminant analysis , logistic regression analysis, forecasting and time series, optimization, overview of statistical programming, e.g., R programming, numerical arithmetic, data type, univariate data, bivariate data, multivariate data, descriptive statistics, arrays and matrices, lists and dataframes, control structures, loop functions, plotting and graphics, data management, function and package development, statistical package software for data analysis.",
+      "pages": [
+        321
+      ],
+      "source_page": 321
+    },
+    {
+      "code": "06026207",
+      "name_th": "ระบบฐานข้อมูลแบบโนเอสคิวแอล",
+      "name_en": "NOSQL DATABASE SYSTEMS",
+      "credits": "3(2-2-5)",
+      "year": 1,
+      "semester": 1,
+      "prerequisite": "ไม่มี",
+      "flexible_year_semester": null,
+      "note": "วิชาบังคับก่อน : ไม่มี\nPREREQUISITE : None\nแนะนำระบบฐานข้อมูลแบบไม่ใช่เชิงสัมพันธ์ ความแตกต่างจากระบบฐานข้อมูลเชิงสัมพันธ์ ข้อดีและข้อเสียของฐานข้อมูลแบบไม่ใช่เชิงสัมพันธ์ ชนิดและโครงสร้างฐานข้อมูลแบบไม่ใช่เชิงสัมพันธ์ แบบคอลัมน์ แบบเคี้ยแวยู แบบเอกสาร และแบบกราฟ ตัวอย่างการออกแบบฐานข้อมูลแบบไม่ใช่เชิงสัมพันธ์ การใช้ภาษาเจสันกับฐานข้อมูลแบบไม่ใช่เชิงสัมพันธ์ แนะนำภาษาเจสันไวยากรณ์ของเจสัน ชนิดข้อมูลของเจสัน\nIntroduction to NoSQL database system, differences between NoSQL database system and relational database system, advantages and disadvantages of NoSQL database system, types of NoSQL database system: column-oriented key-value, document and graph, example of NoSQL database design, JSON &amp; NoSQL database, introduction to JavaScript Object Notation (JSON), JSON syntax, JSON data types.",
+      "pages": [
+        321
+      ],
+      "source_page": 321
+    },
+    {
+      "code": "06026208",
+      "name_th": "พื้นฐานวิทยาการข้อมูล",
+      "name_en": "FUNDAMENTALS OF DATA SCIENCE",
+      "credits": "3(3-0-6)",
+      "year": 1,
+      "semester": 1,
+      "prerequisite": "ไม่มี",
+      "flexible_year_semester": null,
+      "note": "วิชาบังคับก่อน : ไม่มี\nPREREQUISITE : None\nวิทยาการข้อมูลกับแรงจูงใจเชิงธุรกิจ นิยามของวิทยาการข้อมูล กระบวนการทำวิทยาการข้อมูล เช่น กระบวนการ คิรสดีเอ็ม การทำความเข้าใจข้อมูล การเตรียมข้อมูล ดึงข้อมูล จากเว็บไซต์ การดึงข้อมูลจากเอพีไอ นิยามของปัญญาประดิษฐ์ การแทนความรู้ การใช้เหตุผลแบบตรรกศาสตร์และความน่าจะเป็น คอมพิวเตอร์วิทัศน์ การประมวลผลภาษาธรรมชาติ การเรียนรู้ของเครื่องจักร ภาษาไพธอนสำหรับวิทยาการข้อมูล\nData science motivation for business, Definition of Data Science, Data Science Lifecycle: CRISDM, Data Understanding, Data Preparation, Web Scaping, API Request ,Definition of Artificial Intelligence, Major subfields of AI: Knowledge Representation, Logical and Probabilistic reasoning, Computer Vision, Natural Language Processing, Machine Learning, Python Programming for Data Science.",
+      "pages": [
+        322
+      ],
+      "source_page": 322
+    },
+    {
+      "code": "06026209",
+      "name_th": "การแสดงข้อมูลด้วยแผนภาพ",
+      "name_en": "DATA VISUALIZATION",
+      "credits": "3(2-2-5)",
+      "year": 1,
+      "semester": 1,
+      "prerequisite": "ไม่มี",
+      "flexible_year_semester": null,
+      "note": "หลักการการแสดงข้อมูลด้วยแผนภาพ การออกแบบการแสดงข้อมูลด้วยแผนภาพ เครื่องมือที่ใช้ การแสดงข้อมูลด้วยแผนภาพ การได้มาซึ่งข้อมูล การจัดระเบียบข้อมูล การเลือก แผนภูมิต่าง ๆ ที่เหมาะสม เช่น ฮีทโตรแกรม แผนภูมิการกระจาย แผนภูมิเส้น แผนภูมิแท่ง แผนภูมิวงกลม แผนภูมิต้นไม้ แผนภูมิแบบเครือข่าย กราฟสเตร็ม แผนภูมิตัวชี้วัดผลงาน แผนที่ แผนภูมิแบบปฏิสัมพันธ์ การอธิบายแผนภูมิ หลักการเล่าเรื่องด้วยภาพ\nPrinciples of data visualization, data visualization design, data visualization tools, data acquisition, data organization, choosing the appropriate chart type, e.g., histogram, scatter plot, line chart, bar chart, pie chart, tree diagram, network chart, stream graph, KPI Chart, map, interaction chart, chart description, Storytelling with data.",
+      "pages": [
+        322
+      ],
+      "source_page": 322
+    },
+    {
+      "code": "06026210",
+      "name_th": "การหาค่าเหมาะที่สุด",
+      "name_en": "OPTIMIZATION",
+      "credits": "3(3-0-6)",
+      "year": 1,
+      "semester": 1,
+      "prerequisite": "ไม่มี",
+      "flexible_year_semester": null,
+      "note": "การสร้างตัวแบบกำหนดการเชิงเส้น วิธีแก้ปัญหากำหนดการเชิงเส้น ปัญหาควบคู่ ในกำหนดการเชิงเส้น กำหนดการเชิงเส้นและตัวแบบถดถอยควอนไทล์ การหาค่าเหมาะที่สุดกับปัญหากำลังสอง การหาค่าเหมาะสมที่สุดกับปัญหาคอน วิธีเกรเดียนต์เพื่อแก้ปัญหาการหาค่าเหมาะ",
+      "pages": [
+        322
+      ],
+      "source_page": 322
+    },
+    {
+      "code": "06026211",
+      "name_th": "การเรียนรู้ของเครื่องเชิงประยุกต์",
+      "name_en": "APPLIED MACHINE LEARNING",
+      "credits": "3(2-2-5)",
+      "year": 1,
+      "semester": 1,
+      "prerequisite": "ไม่มี",
+      "flexible_year_semester": null,
+      "note": "วิชาบังคับก่อน : ไม่มี\nPREREQUISITE : None",
+      "pages": [
+        323
+      ],
+      "source_page": 323
+    },
+    {
+      "code": "06026212",
+      "name_th": "การสร้างคลังข้อมูล",
+      "name_en": "DATA WAREHOUSING",
+      "credits": "3(2-2-5)",
+      "year": 1,
+      "semester": 1,
+      "prerequisite": "06066300 แนวคิดระบบฐานข้อมูล",
+      "flexible_year_semester": null,
+      "note": "วิชาบังคับก่อน : 06066300 แนวคิดระบบฐานข้อมูล\nPREREQUISITE : 06066300 DATABASE SYSTEM CONCEPTS",
+      "pages": [
+        323
+      ],
+      "source_page": 323
+    },
+    {
+      "code": "06026213",
+      "name_th": "ระบบข้อมูลมหัต",
+      "name_en": "Characteristics of Data warehouse (DW), DW Lifecycle, DW Architecture, Gathering Requirements, Designing Star Schema and Snowflake Schema, Designing Slowly changing Dimensions, Extraction Transformation and Loading (ETL), Cloud-Based Data Warehouses Concepts, Cloud-Based Data Warehouse Architecture.",
+      "credits": "3(2-2-5)",
+      "year": 1,
+      "semester": 1,
+      "prerequisite": "06066300 แนวคิดระบบฐานข้อมูล",
+      "flexible_year_semester": null,
+      "note": "วิชาบังคับก่อน : 06066300 แนวคิดระบบฐานข้อมูล\nPREREQUISITE : 06066300 DATABASE SYSTEM CONCEPTS",
+      "pages": [
+        324
+      ],
+      "source_page": 324
+    },
+    {
+      "code": "06026214",
+      "name_th": "โครงงานวิทยาการข้อมูลและการวิเคราะห์เชิงธุรกิจ 1",
+      "name_en": "PROJECT IN DATA SCIENCE AND BUSINESS ANALYTIC 1",
+      "credits": "3(0-9-0)",
+      "year": 0,
+      "semester": 0,
+      "prerequisite": "ไม่มี",
+      "flexible_year_semester": "1, 2, 3, 4",
+      "note": "วิชาบังคับก่อน : ไม่มี\nPREREQUISITE : None",
+      "pages": [
+        324
+      ],
+      "source_page": 324
+    },
+    {
+      "code": "06026215",
+      "name_th": "โครงงานวิทยาการข้อมูลและการวิเคราะห์เชิงธุรกิจ 2",
+      "name_en": "PROJECT IN DATA SCIENCE AND BUSINESS ANALYTIC 2",
+      "credits": "3(2-9-0)",
+      "year": 1,
+      "semester": 2,
+      "prerequisite": "06026214 โครงงานวิทยาการข้อมูลและการวิเคราะห์เชิงธุรกิจ 1",
+      "flexible_year_semester": null,
+      "note": "วิชาบังคับก่อน : 06026214 โครงงานวิทยาการข้อมูลและการวิเคราะห์เชิงธุรกิจ 1\nPREREQUISITE : 06026214 PROJECT IN DATA SCIENCE AND BUSINESS ANALYTIC 1",
+      "pages": [
+        325
+      ],
+      "source_page": 325
+    },
+    {
+      "code": "06026216",
+      "name_th": "ปัญญาประดิษฐ์",
+      "name_en": "ARTIFICIAL INTELLIGENCE",
+      "credits": "3(3-0-6)",
+      "year": 0,
+      "semester": 0,
+      "prerequisite": "ไม่มี",
+      "flexible_year_semester": "3/1, 3/2, 4/1",
+      "note": "วิชาบังคับก่อน : ไม่มี\nPREREQUISITE : None",
+      "pages": [
+        325
+      ],
+      "source_page": 325
+    },
+    {
+      "code": "06026217",
+      "name_th": "การเรียนรู้ของเครื่อง",
+      "name_en": "MACHINE LEARNING",
+      "credits": "3(3-0-6)",
+      "year": 1,
+      "semester": 1,
+      "prerequisite": "ไม่มี",
+      "flexible_year_semester": null,
+      "note": "Basic of machine learning, supervised learning, linear regression, least squares, logistic regression, k-nearest neighbour, neural network, support vector machine, unsupervised learning, k-mean clustering, expectation-maximization algorithm, dimensionality reduction, principal component analysis, cross-validation, evaluating model performance, machine learning applications.",
+      "pages": [
+        326
+      ],
+      "source_page": 326
+    },
+    {
+      "code": "06026218",
+      "name_th": "การเรียนรู้เชิงลึก",
+      "name_en": "DEEP LEARNING",
+      "credits": "3(2-2-5)",
+      "year": 1,
+      "semester": 1,
+      "prerequisite": "ไม่มี",
+      "flexible_year_semester": null,
+      "note": "Essential mathematics for deep learning, vector calculus, matrix decomposition, understanding the concepts in probability, neural network, feed-forward neural network, multiplayer-perceptron neural network, loss function, convolution neural network, recurrent neural network",
+      "pages": [
+        326
+      ],
+      "source_page": 326
+    },
+    {
+      "code": "06026219",
+      "name_th": "การประมวลผลภาษาธรรมชาติ",
+      "name_en": "NATURAL LANGUAGE PROCESSING",
+      "credits": "3(2-2-5)",
+      "year": 1,
+      "semester": 1,
+      "prerequisite": "ไม่มี",
+      "flexible_year_semester": null,
+      "note": "ภาพรวมโมดูลการประมวลผลภาษาธรรมชาติ งานด้านการแบ่งกลุ่มข้อความ เช่น การจัดกลุ่มข่าว การจำแนกอารมณ์ การกรองสแปม ตัวแบ่งกลุ่มแบบดั้งเดิม เทคนิคการเรียนรู้เชิงลึก แบบจำลองภาษาและการกำกับข้อความที่มีลำดับ การแทนข้อความในแบบจำลองเวกเตอร์ งานด้านการสร้างแบบรูปของงานที่มีลำดับ เช่น การแปลภาษาด้วยเครื่อง การย่อความ การตอบคำถาม",
+      "pages": [
+        326
+      ],
+      "source_page": 326
+    },
+    {
+      "code": "06026220",
+      "name_th": "การทำเหมืองข้อมูลกระบวนการ",
+      "name_en": "PROCESS MINING",
+      "credits": "3(3-0-6)",
+      "year": 1,
+      "semester": 1,
+      "prerequisite": "ไม่มี",
+      "flexible_year_semester": null,
+      "note": "วิชาบังคับก่อน : ไม่มี\nPREREQUISITE : None\n\nแบบจำลองกระบวนการ เพ็ททริน์ต เวอกร์โฟลว์เน็ต อัลกอริทึมในการค้นหา กระบวนการ อัลฟาอัลกอริทึม ดีเพนเด็นซี่กราฟอัลกอริทึม แคชชวลเน็ตอัลกอริทึม การตรวจสอบ ความสอดคล้องของกระบวนการ การค้นหาจุดบกพร่องของกระบวนการ โปรแกรมในการทำเหมือง กระบวนการ\n\nProcess Model: Petri Nets, Workflow Nets, Process Discovery Algorithm: Alpha Algorithm, Dependency Graphs, Causal Nets, Conformance Checking Concepts, Mining Bottlenecks, Process Mining Software.",
+      "pages": [
+        327
+      ],
+      "source_page": 327
+    },
+    {
+      "code": "06026221",
+      "name_th": "การค้นคืนสารสนเทศ",
+      "name_en": "INFORMATION RETRIEVAL",
+      "credits": "3(3-0-6)",
+      "year": 1,
+      "semester": 1,
+      "prerequisite": "ไม่มี",
+      "flexible_year_semester": null,
+      "note": "วิชาบังคับก่อน : ไม่มี\nPREREQUISITE : None\n\nความรู้เบื้องต้นเกี่ยวกับการค้นคืนสารสนเทศ สถาปัตยกรรมของระบบค้นคืน สารสนเทศ เครื่องมือและการประเมินผลการค้นคืนสารสนเทศ แบบจำลองการจัดลำดับแบบพื้นฐาน ของการค้นคืนสารสนเทศ คำศัพท์และรายการของการจัดตำแหน่ง การสร้างดัชนีค้นหา การถ่วงค่า น้ำหนักของคำ การปฏิสัมพันธ์ระหว่างระบบค้นคืนสารสนเทศกับผู้ใช้ การค้นคืนสารสนเทศซึ่งเน้น ความหลากหลายของข้อมูลและการประเมินผล การตอบสนองที่เกี่ยวข้องความต้องการสารสนเทศ แบบจำลองการจัดลำดับขั้นสูงของการค้นคืนสารสนเทศ การจัดกลุ่มและการจำแนกข้อความ การ กรองข้อมูลสารสนเทศ การแนะนำและกรองข้อมูลสารสนเทศแบบความร่วมมือ การรวบรวมข้อมูล บนเว็บ การวิเคราะห์ข้อมูลบนเว็บและการสืบค้นข้อมูลบนเว็บ\n\nIntroduction to Information Retrieval (IR), Architecture of IR Systems, IR Evaluation and Tools, Basic IR Ranking Models, Term Vocabulary and Postings List, Search Index Construction, Term Weighting, Interactive IR, Diversity IR and Evaluation, Relevance Feedback, Advanced IR Ranking Models, Text Clustering and Categorization, Information Filtering, Collaborative Recommendations/Filtering, Web Crawling, Web Analysis and Web Retrieval.",
+      "pages": [
+        327
+      ],
+      "source_page": 327
+    },
+    {
+      "code": "06026222",
+      "name_th": "คอมพิวเตอร์วิชัน",
+      "name_en": "COMPUTER VISION",
+      "credits": "3(3-0-6)",
+      "year": 1,
+      "semester": 1,
+      "prerequisite": "ไม่มี",
+      "flexible_year_semester": null,
+      "note": "Basic image and video processing, intensity and color, image transformation, image convolution, shape and contour, histogram, image segmentation, foreground extraction, feature detection and matching, background subtraction, tracking, object recognition, 3D vision, machine learning in computer vision, some applications such as product inspection system, biomedical image analysis, biometric authentication, intelligent vehicle, and security system.",
+      "pages": [
+        328
+      ],
+      "source_page": 328
+    },
+    {
+      "code": "06026223",
+      "name_th": "การประมวลผลภาพ",
+      "name_en": "IMAGE PROCESSING",
+      "credits": "3(2-2-5)",
+      "year": 1,
+      "semester": 1,
+      "prerequisite": "ไม่มี",
+      "flexible_year_semester": null,
+      "note": "Fundamentals of image processing, Intensity transformations and spatial filtering, Frequency domain processing, Image restoration, Morphological image processing, Image segmentation.",
+      "pages": [
+        328
+      ],
+      "source_page": 328
+    },
+    {
+      "code": "06026224",
+      "name_th": "การแปลงข้อมูลและการรู้จำรูปภาพ",
+      "name_en": "IMAGE TRANSFORMATION AND RECOGNITION",
+      "credits": "3(2-2-5)",
+      "year": 1,
+      "semester": 1,
+      "prerequisite": "ไม่มี",
+      "flexible_year_semester": null,
+      "note": "แนะนำการประมวลผลภาพดิจิตอลสองระดับ ภาพสีเทา และภาพสี การประมวลผลด้วยตัวกรองเฉพาะถิ่น การลดมิติของข้อมูลภาพ การแปลงรูปแบบของข้อมูล อาทิเช่น การแปลงฟูรีย์แบบไม่ต่อเนื่อง การวิเคราะห์องค์ประกอบหลัก การวิเคราะห์การจำแนกประเภทเชิงเส้น การแปลงข้อมูลสองมิติแบบเวเฟล็ตเชิงประจักษ์ การแยกองค์ประกอบข้อมูลสองมิติแบบเชิงประจักษ์",
+      "pages": [
+        328
+      ],
+      "source_page": 328
+    },
+    {
+      "code": "06026225",
+      "name_th": "การเรียนรู้เชิงลึกสำหรับการวิเคราะห์ภาพและวีดีโอทางการ แพทย์",
+      "name_en": "DEEP LEARNING IN MEDICAL IMAGE AND VIDEO ANALYSIS",
+      "credits": "3(2-2-5)",
+      "year": 1,
+      "semester": 1,
+      "prerequisite": "ไม่มี",
+      "flexible_year_semester": null,
+      "note": "วิชาบังคับก่อน : ไม่มี\nPREREQUISITE : None",
+      "pages": [
+        329
+      ],
+      "source_page": 329
+    },
+    {
+      "code": "06026226",
+      "name_th": "หัวข้อพิเศษทางด้านวิทยาการข้อมูล 1",
+      "name_en": "SPECIAL TOPICS IN DATA SCIENCE1",
+      "credits": "3(3-0-6)",
+      "year": 1,
+      "semester": 1,
+      "prerequisite": "ไม่มี",
+      "flexible_year_semester": null,
+      "note": "วิชานี้จะศึกษาถึงหัวข้อและความก้าวหน้าทางวิชาการที่น่าสนใจ โดยอาจารย์ผู้สอนทางด้านวิทยาการข้อมูลเป็นผู้คัดเลือก\nThis course will cover recent advances and other topics of interest selected by the instructors in the field of data science.",
+      "pages": [
+        329
+      ],
+      "source_page": 329
+    },
+    {
+      "code": "06026227",
+      "name_th": "หัวข้อพิเศษทางด้านวิทยาการข้อมูล 2",
+      "name_en": "SPECIAL TOPICS IN DATA SCIENCE 2",
+      "credits": "3(3-0-6)",
+      "year": 1,
+      "semester": 1,
+      "prerequisite": "ไม่มี",
+      "flexible_year_semester": null,
+      "note": "วิชาบังคับก่อน : ไม่มี\nPREREQUISITE : None\nวิชานี้จะศึกษาถึงหัวข้อและความก้าวหน้าทางวิชาการที่น่าสนใจ โดยอาจารย์ผู้สอนทางด้านวิทยาการข้อมูลเป็นผู้คัดเลือก\n\nThis course will cover recent advances and other topics of interest\nselected by the instructors in the field of data science.",
+      "pages": [
+        330
+      ],
+      "source_page": 330
+    },
+    {
+      "code": "06026228",
+      "name_th": "ปฏิบัติการพิเศษทางด้านวิทยาการข้อมูล 1",
+      "name_en": "SPECIAL WORKSHOP IN DATA SCIENCE 1",
+      "credits": "3(2-2-5)",
+      "year": 1,
+      "semester": 1,
+      "prerequisite": "ไม่มี",
+      "flexible_year_semester": null,
+      "note": "วิชาบังคับก่อน : ไม่มี\nPREREQUISITE : None\nศึกษาและการฝึกภาคปฏิบัติในหัวข้อและความก้าวหน้าทางวิชาการที่น่าสนใจ โดย\nอาจารย์ผู้สอนทางด้านวิทยาการข้อมูลเป็นผู้คัดเลือก\n\nThis course focuses on selected topics and practical workshop in data\nscience, which selected by a lecturer.",
+      "pages": [
+        330
+      ],
+      "source_page": 330
+    },
+    {
+      "code": "06026229",
+      "name_th": "ปฏิบัติการพิเศษทางด้านวิทยาการข้อมูล 2",
+      "name_en": "SPECIAL WORKSHOP IN DATA SCIENCE 2",
+      "credits": "3(2-2-5)",
+      "year": 1,
+      "semester": 1,
+      "prerequisite": "ไม่มี",
+      "flexible_year_semester": null,
+      "note": "วิชาบังคับก่อน : ไม่มี\nPREREQUISITE : None\nศึกษาและการฝึกภาคปฏิบัติในหัวข้อและความก้าวหน้าทางวิชาการที่น่าสนใจ โดย\nอาจารย์ผู้สอนทางด้านวิทยาการข้อมูลเป็นผู้คัดเลือก\n\nThis course focuses on selected topics and practical workshop in data\nscience, which selected by a lecturer.",
+      "pages": [
+        330
+      ],
+      "source_page": 330
+    },
+    {
+      "code": "06026230",
+      "name_th": "อนุกรมเวลาและการพยากรณ์เบื้องต้น",
+      "name_en": "INTRODUCTION TO TIME SERIES AND FORECASTING",
+      "credits": "3(3-0-6)",
+      "year": 1,
+      "semester": 1,
+      "prerequisite": "ไม่มี",
+      "flexible_year_semester": null,
+      "note": "วิชาบังคับก่อน : ไม่มี\nPREREQUISITE : None\nบทนำการพยากรณ์ ข้อมูลอนุกรมเวลา การได้มาซึ่งข้อมูลและการจัดการข้อมูลใน\nการพยากรณ์ การพยากรณ์ด้วยเทคนิคการปรับให้เรียบ การพยากรณ์ด้วยเทคนิคการถดถอย การ",
+      "pages": [
+        330
+      ],
+      "source_page": 330
+    },
+    {
+      "code": "06026231",
+      "name_th": "พยากรณ์อนุกรมเวลาด้วยวิธีการแยกองค์ประกอบ วิธีการพยากรณ์แบบบอกซ์-เจนกินส์ การประเมิน เทคนิคการพยากรณ์",
+      "name_en": "An overview of forecasting, Time Series Data, Data acquisition and handling in forecasting, Forecasting with smoothing techniques, Forecasting by regression techniques, The decomposition method of time series forecasting, The box-Jenkins method of forecasting, The evaluation of forecasting techniques.",
+      "credits": "3(3-0-6)",
+      "year": 1,
+      "semester": 1,
+      "prerequisite": "ไม่มี",
+      "flexible_year_semester": "null",
+      "note": "วิชาบังคับก่อน : ไม่มี\nPREREQUISITE : None",
+      "pages": [
+        331
+      ],
+      "source_page": 331
+    },
+    {
+      "code": "06026232",
+      "name_th": "กระบวนการสโตแคสติกเบื้องต้น",
+      "name_en": "INTRODUCTION TO STOCHASTIC PROCESS",
+      "credits": "3(3-0-6)",
+      "year": 1,
+      "semester": 1,
+      "prerequisite": "ไม่มี",
+      "flexible_year_semester": "null",
+      "note": "วิชาบังคับก่อน : ไม่มี\nPREREQUISITE : None",
+      "pages": [
+        331
+      ],
+      "source_page": 331
+    },
+    {
+      "code": "06026233",
+      "name_th": "การวิเคราะห์ข้อมูลหลายตัวแปร",
+      "name_en": "MULTIVARIATE DATA ANALYSIS",
+      "credits": "3(3-0-6)",
+      "year": 1,
+      "semester": 1,
+      "prerequisite": "ไม่มี",
+      "flexible_year_semester": "null",
+      "note": "วิชาบังคับก่อน : ไม่มี\nPREREQUISITE : None",
+      "pages": [
+        331
+      ],
+      "source_page": 331
+    },
+    {
+      "code": "06026234",
+      "name_th": "การออกแบบการทดลอง",
+      "name_en": "EXPERIMENTAL DESIGN",
+      "credits": "3(3-0-6)",
+      "year": 1,
+      "semester": 1,
+      "prerequisite": "ไม่มี",
+      "flexible_year_semester": null,
+      "note": "หลักการของการวางแผนการทดลอง การตรวจสอบความเหมาะสมของตัวแบบ การแปลงข้อมูล การทดลองปัจจัยเดียว แผนการทดลองแบบสมสมบูรณ์ การเปรียบเทียบเชิงพหุ แผนการทดลองแบบสุ่มในบล็อคสมบูรณ์ แผนการทดลองแบบลาตินสแควร์ การทดลองแบบแฟคทอเรียลและแบบสปิลทพลอท การวิเคราะห์ความแปรปรวนร่วม",
+      "pages": [
+        332
+      ],
+      "source_page": 332
+    },
+    {
+      "code": "06026235",
+      "name_th": "หัวข้อพิเศษทางการวิเคราะห์เชิงสถิติ 1",
+      "name_en": "SPECIAL TOPICS IN STATISTICAL ANALYTICS 1",
+      "credits": "3(3-0-6)",
+      "year": 1,
+      "semester": 1,
+      "prerequisite": "ไม่มี",
+      "flexible_year_semester": null,
+      "note": "วิชานี้จะศึกษาถึงหัวข้อและความก้าวหน้าทางวิชาการที่น่าสนใจ โดยอาจารย์ผู้สอนทางด้านการวิเคราะห์เชิงสถิติเป็นผู้คัดเลือก",
+      "pages": [
+        332
+      ],
+      "source_page": 332
+    },
+    {
+      "code": "06026236",
+      "name_th": "หัวข้อพิเศษทางการวิเคราะห์เชิงสถิติ 2",
+      "name_en": "SPECIAL TOPICS IN STATISTICAL ANALYTICS 2",
+      "credits": "3(3-0-6)",
+      "year": 1,
+      "semester": 1,
+      "prerequisite": "ไม่มี",
+      "flexible_year_semester": null,
+      "note": "วิชานี้จะศึกษาถึงหัวข้อและความก้าวหน้าทางวิชาการที่น่าสนใจ โดยอาจารย์ผู้สอนทางด้านการวิเคราะห์เชิงสถิติเป็นผู้คัดเลือก",
+      "pages": [
+        332
+      ],
+      "source_page": 332
+    },
+    {
+      "code": "06026237",
+      "name_th": "ปฏิบัติการพิเศษทางการวิเคราะห์เชิงสถิติ 1",
+      "name_en": "SPECIAL WORKSHOP IN STATISTICAL ANALYTICS 1",
+      "credits": "3(3-0-6)",
+      "year": 1,
+      "semester": 1,
+      "prerequisite": "ไม่มี",
+      "flexible_year_semester": null,
+      "note": "This course will cover recent advances and other topics of interest selected by the instructors in the field of statistical data analysis.",
+      "pages": [
+        333
+      ],
+      "source_page": 333
+    },
+    {
+      "code": "06026238",
+      "name_th": "ปฏิบัติการพิเศษทางการวิเคราะห์เชิงสถิติ 2",
+      "name_en": "SPECIAL WORKSHOP IN STATISTICAL ANALYTICS 2",
+      "credits": "3(3-0-6)",
+      "year": 1,
+      "semester": 1,
+      "prerequisite": "ไม่มี",
+      "flexible_year_semester": null,
+      "note": "This course focuses on selected topics and practical workshop in statistical data analysis, which selected by a lecturer.",
+      "pages": [
+        333
+      ],
+      "source_page": 333
+    },
+    {
+      "code": "06026239",
+      "name_th": "สถาปัตยกรรมข้อมูลแบบไปป์ไลน์",
+      "name_en": "DATA PIPELINE ARCHITECTURE",
+      "credits": "3(3-0-6)",
+      "year": 1,
+      "semester": 1,
+      "prerequisite": "ไม่มี",
+      "flexible_year_semester": null,
+      "note": "สถาปัตยกรรมข้อมูลแบบไปป์ไลน์คือการออกแบบขั้นตอนในการ ย้ายข้อมูลจากต้นทาง ไปยังปลายทางที่อยู่ในรูปแบบที่พร้อมใช้งาน โดยมี 4 ขั้นตอนหลักได้แก่ การนำเข้าข้อมูล, เก็บข้อมูล, จัดการข้อมูลและ นำข้อมูลไปใช้ รวมถึงการสร้างดาต้าเลค การจัดการข้อมูลด้วย ETL เพื่อสร้าง Data Warehouse, Data Mart",
+      "pages": [
+        333
+      ],
+      "source_page": 333
+    },
+    {
+      "code": "06026240",
+      "name_th": "การพัฒนาระบบอัจฉริยะ",
+      "name_en": "INTELLIGENT SYSTEM DEVELOPMENT",
+      "credits": "3(2-2-5)",
+      "year": 1,
+      "semester": 1,
+      "prerequisite": "ไม่มี",
+      "flexible_year_semester": null,
+      "note": "วิชาบังคับก่อน : ไม่มี\nPREREQUISITE : None\n\nการพัฒนาระบบสารสนเทศที่มีการทำงานร่วมกับระบบปัญญาประดิษฐ์ในรูปแบบต่างๆ การประยุกต์ใช้งานการเรียนรู้ของเครื่องในแอปพลิเคชัน การสร้างและออกแบบ API สำหรับการเรียนรู้ของเครื่อง\nIntelligent system development, apply artificial intelligence and machine learning model to application. Design, create and deploy machine learning model to Application Programming Interface (API)",
+      "pages": [
+        334
+      ],
+      "source_page": 334
+    },
+    {
+      "code": "06026241",
+      "name_th": "การดำเนินงานการเรียนรู้ของเครื่อง",
+      "name_en": "MACHINE LEARNING OPERATIONS",
+      "credits": "3(3-0-6)",
+      "year": 1,
+      "semester": 1,
+      "prerequisite": "ไม่มี",
+      "flexible_year_semester": null,
+      "note": "วิชาบังคับก่อน : ไม่มี\nPREREQUISITE : None\n\nกระบวนการทำเอ็มแอลอ๊อพ กระบวนการสร้างแบบจำลอง เช่น การนำเข้าข้อมูล การสอนแบบจำลอง การเตรียมแบบจำลองเพื่อสำหรับนำไปใช้งาน กระบวนการสำหรับการนำแบบจำลองไปใช้งาน เช่น การทดสอบโปรแกรม กระบวนการตรวจสอบแบบจำลอง เช่น การตรวจสอบแบบจำลอง การวิเคราะห์ประสิทธิภาพของแบบจำลอง การกำกับควบคุมการใช้แบบจำลอง\nMLOps Lifecycle, Build Pipeline: Data Ingestion, Model Training, Model Testing, Model Packaging and Registering, Deploy Pipeline: Application Testing, Monitoring Pipeline: Monitoring, Analysis, Governance.",
+      "pages": [
+        334
+      ],
+      "source_page": 334
+    },
+    {
+      "code": "06026242",
+      "name_th": "โครงสร้างพื้นฐานด้านเทคโนโลยีกลุ่มเมฆ",
+      "name_en": "CLOUD TECHNOLOGY INFRASTRUCTURE",
+      "credits": "3(3-0-6)",
+      "year": 1,
+      "semester": 1,
+      "prerequisite": "ไม่มี",
+      "flexible_year_semester": null,
+      "note": "วิชาบังคับก่อน : ไม่มี\nPREREQUISITE : None\n\nคุณลักษณะที่สำคัญของระบบคลาวด์, รูปแบบการให้บริการของระบบคลาวด์, รูปแบบการประมวลผลบนระบบคลาวด์, รูปแบบการจัดเก็บข้อมูลบนระบบคลาวด์, รูปแบบของฐานข้อมูลบนระบบคลาวด์, การจัดการระบบเครือข่ายบนระบบคลาวด์, ความปลอดภัยสำหรับระบบคลาวด์, การติดตั้งระบบการทำงานในขั้นพื้นฐานบนระบบคลาวด์, การบริหารจัดการการทำงานและการจัดการเกี่ยวกับค่าใช้จ่ายบนระบบคลาวด์\nKey characteristics of cloud computing, Cloud delivery models, Compute services in the cloud, Storage services in the cloud, Database services in the cloud, Implementing basic system on public cloud environment, Operation and cost management in the cloud",
+      "pages": [
+        334
+      ],
+      "source_page": 334
+    },
+    {
+      "code": "06026243",
+      "name_th": "ระบบฐานข้อมูลขั้นสูง",
+      "name_en": "ADVANCED DATABASE SYSTEMS",
+      "credits": "3(3-0-6)",
+      "year": 1,
+      "semester": 1,
+      "prerequisite": "ไม่มี",
+      "flexible_year_semester": null,
+      "note": "การจัดการรายการเปลี่ยนแปลง การกู้คืนโดยใช้เทคนิคลงบันทึกและการใช้แชโดว์ เพจจิ้ง การจัดการบัฟเฟอร์ เทคนิคการควบคุมภาวะพร้อมกันแบบต่างๆ การกู้คืนจากความขัดข้อง ของรายการ เปลี่ยนแปลง การแก้ปัญหาภาวะติดตาย การประมวลผลข้อคำถาม การปรับข้อคำถาม ให้เหมาะสมที่สุด ฐานข้อมูลแบบกระจาย คลังข้อมูล หรือหัวข้ออื่นที่ผู้สอนเลือกตามความเหมาะสมกับ เทคโนโลยีในปัจจุบัน",
+      "pages": [
+        335
+      ],
+      "source_page": 335
+    },
+    {
+      "code": "06026244",
+      "name_th": "การดูแลและบำรุงรักษาระบบฐานข้อมูล",
+      "name_en": "DATABASE SYSTEM MAINTENANCE AND ADMINISTRATION",
+      "credits": "3(2-2-5)",
+      "year": 1,
+      "semester": 1,
+      "prerequisite": "ไม่มี",
+      "flexible_year_semester": null,
+      "note": "การสร้างวิวและลำดับ ตัวดำเนินการของเซ็ต การสร้างพีแอล/เอสคิวแอล การ จัดการกับสิ่ง ผิดปรกติ กระบวนงานและฟังก์ชัน การจัดการกับโปรแกรมย่อย แพ็คเก็จ การจัดการ กับอ๊อบเจกต์ขนาดใหญ่ ทริกเกอร์ สถาปัตยกรรมตัวบริการฐานข้อมูล การจัดการฐานข้อมูล ที่ เครื่องรับบริการ การสร้างฐานข้อมูล พจนานุกรมข้อมูลและวิวแสดงการปฏิบัติการแบบพลวัต แฟ้ม ควบคุม แฟ้มรายการทำซ้ำ การบำรุงรักษาเทเบิลสเปซและแฟ้มข้อมูล โครงสร้างหน่วยเก็บ ข้อมูลทำ กลับ การบำรุงรักษาตาราง การบำรุงรักษาดรธรชนี บูรณภาพของข้อมูล การจัดการผู้ใช้งาน สิทธิ์การ ใช้งานและบทบาท การนำข้อมูลเข้าฐานข้อมูล การสำรองและการกู้ฐานข้อมูล โปรแกรม อรรถประโยชน์สำหรับการนำเข้า และส่งออกข้อมูล",
+      "pages": [
+        335
+      ],
+      "source_page": 335
+    },
+    {
+      "code": "06026245",
+      "name_th": "ระบบฐานข้อมูลแบบกระจาย",
+      "name_en": "DISTRIBUTED DATABASE SYSTEMS",
+      "credits": "3(3-0-6)",
+      "year": 1,
+      "semester": 1,
+      "prerequisite": "ไม่มี",
+      "flexible_year_semester": null,
+      "note": "วิชาบังคับก่อน : ไม่มี\nPREREQUISITE : None\nวิชานี้จัดการเกี่ยวกับการเพิ่มความสามารถของฐานข้อมูลที่มีความสัมพันธ์เชิงตรรกะ โดยกระจายฐานข้อมูลผ่านเครือข่ายคอมพิวเตอร์เพื่อให้สามารถประมวลผลข้อมูลที่ปรับขนาดได้ หลักสูตรนี้จะกล่าวถึงส่วนประกอบของระบบครอบคลุมหัวข้อหลักต่อไปนี้: สถาปัตยกรรมฐานข้อมูลแบบกระจาย การจัดเก็บและการจัดทำดัชนีข้อมูลแบบกระจาย การประมวลผล/การเพิ่มประสิทธิภาพการสืบค้นแบบกระจายและแบบคู่ขนาน และการควบคุมการทำงานพร้อมกันในระบบฐานข้อมูลแบบคู่ขนานแบบกระจาย และการออกแบบและอิมพลีเม้นท์ระบบต้นแบบ\nThis course will deal with the increased capabilities of a collection of logically interrelated databases distributed over a computer network to enable scalable data processing. This course addresses the components of these systems, covering the following main topics: distributed database architectures, distributed data storage, and indexing, distributed and parallel query processing/optimization, concurrency control in distributed Parallel Database Systems, and design and implementation of prototype systems.",
+      "pages": [
+        336
+      ],
+      "source_page": 336
+    },
+    {
+      "code": "06026246",
+      "name_th": "หัวข้อพิเศษทางวิศวกรรมข้อมูล 1",
+      "name_en": "SPECIAL TOPICS IN DATA ENGINEERING 1",
+      "credits": "3(3-0-6)",
+      "year": 1,
+      "semester": 1,
+      "prerequisite": "ไม่มี",
+      "flexible_year_semester": null,
+      "note": "วิชาบังคับก่อน : ไม่มี\nPREREQUISITE : None\nวิชานี้จะศึกษาถึงหัวข้อและความก้าวหน้าทางวิชาการที่น่าสนใจ โดยอาจารย์ผู้สอนทางด้านวิศวกรรมข้อมูลเป็นผู้คัดเลือก\nThis course will cover recent advances and other topics of interest selected by the instructors in the field of data engineering.",
+      "pages": [
+        336
+      ],
+      "source_page": 336
+    },
+    {
+      "code": "06026247",
+      "name_th": "หัวข้อพิเศษทางวิศวกรรมข้อมูล 2",
+      "name_en": "SPECIAL TOPICS IN DATA ENGINEERING 2",
+      "credits": "3(3-0-6)",
+      "year": 1,
+      "semester": 1,
+      "prerequisite": "ไม่มี",
+      "flexible_year_semester": null,
+      "note": "วิชาบังคับก่อน : ไม่มี\nPREREQUISITE : None\nวิชานี้จะศึกษาถึงหัวข้อและความก้าวหน้าทางวิชาการที่น่าสนใจ โดยอาจารย์ผู้สอนทางด้านวิศวกรรมข้อมูลเป็นผู้คัดเลือก\nThis course will cover recent advances and other topics of interest selected by the instructors in the field of data engineering.",
+      "pages": [
+        336
+      ],
+      "source_page": 336
+    },
+    {
+      "code": "06026248",
+      "name_th": "ปฏิบัติการพิเศษทางวิศวกรรมข้อมูล 1",
+      "name_en": "SPECIAL WORKSHOP IN DATA ENGINEERING 1",
+      "credits": "3(2-2-5)",
+      "year": 1,
+      "semester": 1,
+      "prerequisite": "ไม่มี",
+      "flexible_year_semester": null,
+      "note": "มคอ. 2",
+      "pages": [
+        337
+      ],
+      "source_page": 337
+    },
+    {
+      "code": "06026249",
+      "name_th": "ปฏิบัติการพิเศษทางวิศวกรรมข้อมูล 2",
+      "name_en": "SPECIAL WORKSHOP IN DATA ENGINEERING 2",
+      "credits": "3(2-2-5)",
+      "year": 1,
+      "semester": 2,
+      "prerequisite": "ไม่มี",
+      "flexible_year_semester": null,
+      "note": "มคอ. 2",
+      "pages": [
+        337
+      ],
+      "source_page": 337
+    },
+    {
+      "code": "06026250",
+      "name_th": "วิทยาการข้อมูลสำหรับธุรกิจ",
+      "name_en": "DATA SCIENCE FOR BUSINESS",
+      "credits": "3(2-2-5)",
+      "year": 1,
+      "semester": 3,
+      "prerequisite": "ไม่มี",
+      "flexible_year_semester": null,
+      "note": "วท.บ (วิทยาการข้อมูลและการวิเคราะห์เชิงธุรกิจ) สาขาวิชาวิทยาการข้อมูลและการวิเคราะห์เชิงธุรกิจ คณะเทคโนโลยีสารสนเทศ สจล.",
+      "pages": [
+        337
+      ],
+      "source_page": 337
+    },
+    {
+      "code": "06026251",
+      "name_th": "บัญชีการเงิน",
+      "name_en": "FINANCIAL ACCOUNTING",
+      "credits": "3(2-2-5)",
+      "year": 1,
+      "semester": 1,
+      "prerequisite": "ไม่มี",
+      "flexible_year_semester": null,
+      "note": "วิชาบังคับก่อน : ไม่มี\nPREREQUISITE : None\nแนะนำการบัญชี วิธีการทางบัญชีและธุรกรรม ภาพรวมวงจรบัญชี (บันทึกรายวัน บัญชีแยกประเภท ปรับปรุงรายการบัญชี และปิดบัญชี) ต้นทุนสินค้า การบัญชีสำหรับธุรกิจซื้อขาย สินค้า การบัญชีสินทรัพย์ การบัญชีหนี้สิน การบัญชีส่วนของเจ้าของ การจัดทำงบการเงิน งบกำไร ขาดทุนและงบดุล การวิเคราะห์ทางการเงิน การวิเคราะห์แนวตั้ง การวิเคราะห์แนวนอน และการ วิเคราะห์อัตราส่วน\nAn introduction to accounting, accounting methods and transactions, accounting cycle overview: journals, ledgers, adjusting, and closing entries, inventory cost, merchandising businesses, asset, liability, shareholder equity, financial statement: income statement, balance sheet, and cash flow, financial analysis, vertical analysis, horizontal analysis, and ratio analysis.",
+      "pages": [
+        338
+      ],
+      "source_page": 338
+    },
+    {
+      "code": "06026252",
+      "name_th": "การวิเคราะห์ด้านการเงิน",
+      "name_en": "FINANCIAL ANALYTICS",
+      "credits": "3(2-2-5)",
+      "year": 1,
+      "semester": 1,
+      "prerequisite": "ไม่มี",
+      "flexible_year_semester": null,
+      "note": "วิชาบังคับก่อน : ไม่มี\nPREREQUISITE : None\nแนะนำและภาพรวมของการวิเคราะห์ทางการเงิน การประยุกต์การวิเคราะห์ทาง การเงินในสถานการจริง เทคนิควิเคราะห์ข้อมูลอนุกรมเวลา การวัดประสิทธิภาพการพยากรณ์ การ พัฒนาโมเดลพยากรณ์ ARIMA ประเมินความสมดุลของเสี่ยงและผลตอบแทนในทฤษฎีพอร์ตโฟลิโอ สมัยใหม่ ราคา ผลตอบแทน และความเสี่ยงของหุ้น เทคนิคการวิเคราะห์ในบริบทอื่นๆ แนะนำ อัลกอริทึมการเทรดหลักทรัพย์\nIntroduction and overview of financial analytics, apply financial analytics in real-world situations, techniques to analyze time series data, forecasting performance measures, building an ARIMA forecasting model using R, evaluate the risk- reward trade-off in modern portfolio theory, prices, returns, and risk of corporate stocks, analytical techniques in other domains, introduction to algorithmic trading",
+      "pages": [
+        338
+      ],
+      "source_page": 338
+    },
+    {
+      "code": "06026253",
+      "name_th": "การวิเคราะห์ด้านการตลาด",
+      "name_en": "MARKETING ANALYTICS",
+      "credits": "3(2-2-5)",
+      "year": 1,
+      "semester": 1,
+      "prerequisite": "ไม่มี",
+      "flexible_year_semester": null,
+      "note": "วิชาบังคับก่อน : ไม่มี\nPREREQUISITE : None\nการวิเคราะห์การตลาด, ขนาดตลาดและการวิเคราะห์แนวโน้ม, การแบ่งส่วนตลาด, การวิเคราะห์การแข่งขัน, กลยุทธ์ทางธุรกิจและการปฏิบัติการทางธุรกิจ- การพยากรณ์ การวิเคราะห์ เชิงคาดการณ์ และการทำเหมืองข้อมูล, การวิเคราะห์ผลิตภัณฑ์และบริการ, การวิเคราะห์ราคา, การ",
+      "pages": [
+        338
+      ],
+      "source_page": 338
+    },
+    {
+      "code": "06026254",
+      "name_th": "เทคโนโลยีสุขภาพสนเทศศาสตร์เบื้องต้น",
+      "name_en": "INTRODUCTION TO HEALTH ANALYTICS",
+      "credits": "3(2-2-5)",
+      "year": 1,
+      "semester": 1,
+      "prerequisite": "ไม่มี",
+      "flexible_year_semester": null,
+      "note": "วิชาบังคับก่อน : ไม่มี\nPREREQUISITE : None\nความรู้เบื้องต้นการวิเคราะห์ข้อมูลด้านสุขภาพ เทคโนโลยีและเครื่องมือทั่วไป แหล่งข้อมูลด้านการดูแลสุขภาพ มาตรฐานด้านข้อมูลการดูแลสุขภาพ โครงสร้างข้อมูลทางคลินิก การทำเหมืองข้อมูลด้านสุขภาพ การจำแนกประเภทและการเลือกคุณสมบัติ เทคนิค supervised และ unsupervised แบบจำลองการคาดการณ์ การวิเคราะห์ข้อมูลสุขภาพเชิงสำรวจ (EDA) และ เทคนิคการสร้าง visualization ของข้อมูลเชิงวิทยาศาสตร์สุขภาพ ประเภทข้อมูลทางคลินิกของ ข้อมูลด้านสุขภาพจากแฟ้มบันทึกการดูแลสุขภาพอิเล็กทรอนิกส์และการแลกเปลี่ยนข้อมูลด้าน สุขภาพ การวิเคราะห์ข้อมูลอนุกรมเวลา\nIntroduction to Health Data Analysis, Common technologies and tools, Healthcare Data Sources, Standards in Healthcare Data, Clinical data structure, health data mining, Classification and Feature Selection, Supervised and Unsupervised Techniques, Prediction model Exploratory data analysis (EDA) and common visualization techniques in health care science, Clinical data type of health data in Electronic Healthcare Record and Healthcare Information Exchange, Time series data analysis.",
+      "pages": [
+        339
+      ],
+      "source_page": 339
+    },
+    {
+      "code": "06026255",
+      "name_th": "การได้มาและการจัดการข้อมูลทางด้านคลินิก",
+      "name_en": "CLINICAL DATA ACQUISITION AND MANAGEMENT",
+      "credits": "3(2-2-5)",
+      "year": 1,
+      "semester": 1,
+      "prerequisite": "ไม่มี",
+      "flexible_year_semester": null,
+      "note": "มาตรฐานข้อมูลสุขภาพและโครงสร้าง การวิเคราะห์ข้อมูลวิทยาศาสตร์สุขภาพ การ เชื่อมต่อของระบบสุขภาพในแง่มุมของผู้ใช้ ประเภทข้อมูลสุขภาพของแฟ้มการดูแลสุขภาพ อิเล็กทรอนิกส์และการแลกเปลี่ยนข้อมูล ลการดูแลสุขภาพ ที่มาของแหล่งข้อมูลและการเตรียมข้อมูล ทางคลินิก เทคนิคการแบ่งส่วนของฟลิ้มเอ็กซ์เรย์ การเตรียมข้อมูลและแก้ไขข้อมูลภาพทางการ แพทย์ การเตรียมข้อมูลรูปแบบ คลื่นและอื่นๆ การใช้เทคนิคประมวลภาษาธรรมชาติเชิงการแพทย์",
+      "pages": [
+        339
+      ],
+      "source_page": 339
+    },
+    {
+      "code": "06026256",
+      "name_th": "การจัดการการปฏิบัติการ",
+      "name_en": "OPERATIONS MANAGEMENT",
+      "credits": "3(3-0-6)",
+      "year": 1,
+      "semester": 1,
+      "prerequisite": "ไม่มี",
+      "flexible_year_semester": null,
+      "note": "วิชาบังคับก่อน : ไม่มี\nPREREQUISITE : None\nภาพรวมของการจัดการการปฏิบัติการ โปรแกรมเชิงเส้น โปรแกรมเชิงจำนวนเต็ม การเลือกทำเลที่ตั้ง การวางแผนผังสถานที่ประกอบการ การจัดการสินค้าคงคลัง การควบคุมคุณภาพ การจัดการโครงการ การพยากรณ์\nOverview of operations management, linear programming, integer programming, location planning, facility layout, inventory management, quality management, project management, forecasting.",
+      "pages": [
+        340
+      ],
+      "source_page": 340
+    },
+    {
+      "code": "06026257",
+      "name_th": "การบริหารเชิงกลยุทธ์และสมรรถนะของธุรกิจ",
+      "name_en": "BUSINESS STRATEGIC AND PERFORMANCE MANAGEMENT",
+      "credits": "3(3-0-6)",
+      "year": 1,
+      "semester": 1,
+      "prerequisite": "ไม่มี",
+      "flexible_year_semester": null,
+      "note": "วิชาบังคับก่อน : ไม่มี\nPREREQUISITE : None\nแนะนำการวางแผนเชิงกลยุทธ์ของธุรกิจ การกำหนดสมรรถนะของธุรกิจและการเลือกหลักการวัดสมรรถนะ กระบวนการบริหารสมรรถนะของธุรกิจ การวางแผนสมรรถนะ การนำแผนไปสู่การปฏิบัติ การประเมินสมรรถนะ และการพิจารณาทบทวนสมรรถนะ การแนะนำระบบการบริหารสมรรถนะของธุรกิจ และแนวทางปฏิบัติที่ดีของการบริหารสมรรถนะของธุรกิจ\nStrategic planning, defining business performance and choosing a measurement approach, performance management process, performance planning, performance execution, performance assessment, performance review, introduction of performance management system, performance management best practices.",
+      "pages": [
+        340
+      ],
+      "source_page": 340
+    },
+    {
+      "code": "06026258",
+      "name_th": "การวิเคราะห์เครือข่ายสังคม",
+      "name_en": "SOCIAL NETWORK ANALYTICS",
+      "credits": "3(3-0-6)",
+      "year": 1,
+      "semester": 1,
+      "prerequisite": "ไม่มี",
+      "flexible_year_semester": null,
+      "note": "วิชาบังคับก่อน : ไม่มี\nPREREQUISITE : None\nเพื่อเรียนรู้ สภาพแวดล้อม ผู้บริโภค และ โครงสร้างเครือข่าย ของสื่อสังคม เรียนรู้ทฤษฎีกราฟ การวัดเครือข่าย และแบบจำลองเครือข่าย ในเครือข่ายสังคม พื้นฐานจิตวิทยาของเครือข่ายสังคม การวิเคราะห์เครือข่ายสังคม การทำเหมืองสื่อสังคมเพื่อการทำตลาดทางสื่อสังคม Environment, Consumers and Network structure of Social Media. Graph theory, Network measures and network models in social network. Psychological foundations of social network and social network analysis. Social media mining for social media marketing.",
+      "pages": [
+        341
+      ],
+      "source_page": 341
+    },
+    {
+      "code": "06026259",
+      "name_th": "สหกิจศึกษาทางวิทยาการข้อมูลและการวิเคราะห์เชิงธุรกิจ",
+      "name_en": "COOPERATIVE EDUCATION IN DATA SCIENCE AND BUSINESS ANALYTICS",
+      "credits": "3(3-0-6)",
+      "year": 0,
+      "semester": 0,
+      "prerequisite": "ไม่มี",
+      "flexible_year_semester": "1, 2, 3",
+      "note": "วิชาสหกิจศึกษา เป็นโปรแกรมความร่วมมือทางด้านวิชาการระหว่างสถานศึกษากับหน่วยงานต่าง ๆ ที่ยินยอมให้นักศึกษาได้นำความรู้ที่ได้เรียนในห้องเรียน ไปประยุกต์ใช้ในการปฏิบัติงานจริงที่หน่วยงานนั้นๆ โดยโครงการของนักศึกษาที่ทำระหว่างปฏิบัติงานจะต้องเป็นไปตามที่ได้กำหนดไว้ร่วมกัน ระหว่างคณะฯ และหน่วยงานที่ไปปฏิบัติงาน โดยเมื่อปฏิบัติงานครบแล้วนักศึกษาจำเป็นที่จะต้องนำเสนอผลงานของโครงการต่อคณะกรรมการสอบ\nCooperative education is a collaborated education program between educational institutes and enterprises that allows students to apply their knowledge in the classroom with practical work experience. The student's project work must be approved by the faculty and the enterprises. After completion, students need to present their works to the examination committee.",
+      "pages": [
+        341
+      ],
+      "source_page": 341
+    },
+    {
+      "code": "06026260",
+      "name_th": "สหกิจศึกษาต่างประเทศทางวิทยาการข้อมูลและการวิเคราะห์เชิงธุรกิจ",
+      "name_en": "OVERSEA COOPERERATIVE EDUCATION IN DATA SCIENCE AND BUSINESS ANALYTICS",
+      "credits": "3(3-0-6)",
+      "year": 0,
+      "semester": 0,
+      "prerequisite": "ไม่มี",
+      "flexible_year_semester": "1, 2, 3",
+      "note": "วิชาสหกิจศึกษา เป็นโปรแกรมความร่วมมือทางด้านวิชาการระหว่างสถานศึกษากับหน่วยงานต่างๆ ในต่างประเทศที่ยินยอมให้นักศึกษาได้นำความรู้ที่ได้เรียนในห้องเรียน ไปประยุกต์ใช้ในการปฏิบัติงานจริงที่หน่วยงานนั้น ๆ โดยโครงการของนักศึกษาที่ทำระหว่างปฏิบัติงานจะต้อง",
+      "pages": [
+        341
+      ],
+      "source_page": 341
+    }
+  ],
+  "_meta": {
+    "pipeline": "vlm",
+    "elapsed_sec": 991.2,
+    "models": {
+      "ocr": "scb10x/typhoon-ocr1.5-3b",
+      "text": "qwen3:4b"
+    },
+    "dpi": 150,
+    "pages_per_chunk": 1,
+    "pages_spec": "23-36,314-341",
+    "ocr_failed_pages": []
+  }
+}
